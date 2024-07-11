@@ -1,0 +1,92 @@
+.section{
+    margin: 80px 300px;
+    padding: 50px;
+    background-color: green;
+    width: 60%;
+}
+
+
+.container{
+    background-color: white;
+    width: 100%;
+    padding: 50px;
+}
+
+.row{
+    padding-bottom:20px ;
+}
+
+.row p{
+    color: grey;
+}
+.row input{
+    width: 200px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.butt{
+    color: white;
+    background-color: blue;
+    width: 75px;
+    padding: 5px;
+    border:none;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+.row ol{
+    padding-left:50px ;
+}
+
+.marked{
+    text-decoration: line-through;
+    background-color:grey;
+}
+
+
+.butt1{
+    margin: 10px;
+    background-color: blue;
+    color: white;
+    width: 200px;
+    padding: 10px;
+    border: none;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+.butt2{
+    margin: 10px;
+    background-color: maroon;
+    color: white;
+    width: 150px;
+    padding: 10px;
+    border: none;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+.butt3{
+    margin: 10px;
+    background-color:rgb(42, 201, 17);
+    color: white;
+    width: 150px;
+    padding: 10px;
+    border: none;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
